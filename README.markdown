@@ -1,4 +1,4 @@
-# Rails Microblog
+ -- Rails Microblog --
 
 [*Micropost Application*]
 
