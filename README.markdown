@@ -1,8 +1,8 @@
 # -- Rails Microblog --
 
-Micropost Application written in Ruby
+- Micropost Application written in Ruby
 
-Hosted on Heroku
+- Hosted on Heroku
 
 [*Micropost Application*]
 
